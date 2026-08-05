@@ -1,4 +1,5 @@
 Emilio Estuvo Aqui
+<<<<<<< Updated upstream
 Medico:{
 "idMedico":
 "Nombre":
@@ -34,3 +35,7 @@ Consultorio:{
 "HorarioAtencion":
 "Ciudad":
 }
+=======
+
+prueba 2 
+>>>>>>> Stashed changes
